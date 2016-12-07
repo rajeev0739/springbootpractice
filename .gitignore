@@ -1,0 +1,13 @@
+.classpath
+.project
+.settings
+.externalToolBuilders
+*.bkp
+*.bkp.*
+*_bkp.*
+target/
+.idea/
+*.iml
+.springBeans
+${sys:catalina.base}/
+vucliptemplate_base/
