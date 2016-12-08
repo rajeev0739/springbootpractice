@@ -10,4 +10,4 @@ target/
 *.iml
 .springBeans
 ${sys:catalina.base}/
-vucliptemplate_base/
+log_base/
