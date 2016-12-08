@@ -10,4 +10,4 @@ target/
 *.iml
 .springBeans
 ${sys:catalina.base}/
-log_base/
+logs/
