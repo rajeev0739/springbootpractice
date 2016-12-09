@@ -11,6 +11,8 @@ import org.springframework.context.ApplicationContext;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.ComponentScan;
 
+import com.rajeev.sbp.rest.api.GenericListener;
+
 @SpringBootApplication
 
 //different ways to defined component scan
