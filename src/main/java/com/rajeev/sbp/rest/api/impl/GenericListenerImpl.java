@@ -68,7 +68,7 @@ public class GenericListenerImpl implements GenericListener {
 	
 	
 	@Override
-	public @ResponseBody String processJson(HttpServletRequest request, HttpServletResponse response,@RequestBody String jsonString) {
+	public  String processJson(HttpServletRequest request, HttpServletResponse response,@RequestBody String jsonString) {
 		
 		String requestName=productName+" DN ";
 		
